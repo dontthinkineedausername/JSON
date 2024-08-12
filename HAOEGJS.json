@@ -283,7 +283,7 @@
         { "id" : "B1-DATS" , "title" : "B1-DATS" , "description" : "B1-DATS" , "signal" : "15" } ,
         { "id" : "APTA-B2/4" , "title" : "APTA-B2/4" , "description" : "APTA-B2/4" , "signal" : "15" } ,
         { "id" : "APTA-B2/2" , "title" : "APTA-B2/2" , "description" : "APTA-B2/2" , "signal" : "15" } ,
-        { "id" : "APTA-B1/1 " , "title" : "APTA-B1/1 " , "description" : "APTA-B1/1 " , "signal" : "15" } ,
+        { "id" : "APTA-B1/1" , "title" : "APTA-B1/1 " , "description" : "APTA-B1/1 " , "signal" : "15" } ,
         { "id" : "APTA-B0/7" , "title" : "APTA-B0/7" , "description" : "APTA-B0/7" , "signal" : "15" } ,
         { "id" : "ACAS-B2/2" , "title" : "ACAS-B2/2" , "description" : "ACAS-B2/2" , "signal" : "15" } ,
         { "id" : "ACAS-B2/1" , "title" : "ACAS-B2/1" , "description" : "ACAS-B2/1" , "signal" : "15" } ,
