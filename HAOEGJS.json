@@ -225,7 +225,7 @@
         { "id" : "TBO-B1/1" , "title" : "TBO-B1/1" , "description" : "TBO-B1/1" , "signal" : "15" } ,
         { "id" : "SWIM-B3/1" , "title" : "SWIM-B3/1" , "description" : "SWIM-B3/1" , "signal" : "15" } ,
         { "id" : "SWIM-B2/5" , "title" : "SWIM-B2/5" , "description" : "SWIM-B2/5" , "signal" : "15" } ,
-        { "id" : "SWIM-B2/4 " , "title" : "SWIM-B2/4 " , "description" : "SWIM-B2/4 " , "signal" : "15" } ,
+        { "id" : "SWIM-B2/4" , "title" : "SWIM-B2/4" , "description" : "SWIM-B2/4 " , "signal" : "15" } ,
         { "id" : "SWIM-B2/3" , "title" : "SWIM-B2/3" , "description" : "SWIM-B2/3" , "signal" : "15" } ,
         { "id" : "SWIM-B2/2" , "title" : "SWIM-B2/2" , "description" : "SWIM-B2/2" , "signal" : "15" } ,
         { "id" : "SWIM-B2/1" , "title" : "SWIM-B2/1" , "description" : "SWIM-B2/1" , "signal" : "15" } ,
