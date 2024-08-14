@@ -14,7 +14,7 @@
                             "family" : "Outcomes",
                             "nodes" : 
                                 [
-                                    { { "id" : "Outcome-A1" , "title" : "Reducing accident rates" , "description" : "Global and regional reduction in fatal accident rates" , "signal" : "10" },}
+                                    {"id" : "Outcome-A1" , "title" : "Reducing accident rates" , "description" : "Global and regional reduction in fatal accident rates" , "signal" : "10" }
                                 ]
                         }
                         
