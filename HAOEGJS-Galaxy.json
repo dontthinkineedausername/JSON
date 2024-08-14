@@ -8,7 +8,16 @@
                             { "id" : "Aspiration-1" , "title" : "Zero Fatalities" , "description" : "The goal of Zero fatalities in international aviation from accidents and acts of unlawful interference" , "signal" : "10" },
                             { "id" : "Aspiration-2" , "title" : "Net-Zero CO2" , "description" : "The goal of Net-zero carbon emissions by 2050 for international aviation operations" , "signal" : "10" },
                             { "id" : "Aspiration-3" , "title" : "Thriving, Connected, Accessible, Inclusive and Affordable" , "description" : "The goal of aviation to serve as an integral part of a thriving, connected, accessible, inclusive, and affordable transport system for people and goods, contributing to socio-economic development, while ensuring no country is left behind." , "signal" : "10" }
-                        ]
+                        ],
+                    "branch" :
+                        {
+                            "family" : "Outcomes",
+                            "nodes" : 
+                                [
+                                    { { "id" : "Outcome-A1" , "title" : "Reducing accident rates" , "description" : "Global and regional reduction in fatal accident rates" , "signal" : "10" },}
+                                ]
+                        }
+                        
                 },
                 {
                     "family" : "HAO High Influence Enablers" ,
