@@ -4,17 +4,17 @@
             {"id": "HAO Mandates", "description" : "HAO Mandates", "group": 1},
             {"id": "A41", "description" : "A41",  "group": 1},
             {"id": "ANconf/13", "description" : "ANConf/13",  "group": 1},
-            {"id": "ANConf/13 5.1/1", "description" : "5.1/1 — Operations above flight level 600",  "group": 1},
+          {"id": "ANConf/13 5.1/1", "description" : "5.1/1 — Operations above flight level 600",  "group": 1},
             
             
-            
+             
             {
                 "id": "5.1/1 a", 
                 "description": "States with relevant experience",
                 "descriptionX" :"States with relevant experience in higher airspace operations, share, through ICAO where  appropriate, their experience and expertise with other States and provide assistance to  other States on the regulatory aspects of these operations;", 
                 "group": 1
             },
-
+ 
             
             {
                 "id": "5.1/1 a1", 
@@ -104,7 +104,7 @@
                 "group": 1
             },
 
-          
+         
             
             {
                 "id": "A41-9", 
@@ -112,9 +112,9 @@
                 "descriptionX" :"", 
                 "group": 1
             },
-
+ 
             {
-                "id": "A4-9 a", 
+                "id": "A41-9 a", 
                 "description" :"“New Entrants” refers to higher airspace operations (HAO) and...",
                 "descriptionX" :"Recognizing that, for the purposes of this Resolution, the term “New Entrants” refers to higher airspace operations (HAO) and unmanned aircraft system (UAS) traffic management (UTM) operations;",
                 "group": 1
@@ -201,9 +201,8 @@
         [
             {"source": "A41", "target": "HAO Mandates", "value": 1},
             {"source": "ANconf/13", "target": "HAO Mandates", "value": 1},
-            {"source": "ANConf/13 5.1/1", "target": "ANconf/13", "value": 1},
             
-
+            {"source": "ANConf/13 5.1/1", "target": "ANconf/13", "value": 1},
             {"source": "5.1/1 a", "target": "ANConf/13 5.1/1", "value": 1},
             {"source": "5.1/1 a1", "target": "5.1/1 a", "value": 1},
             {"source": "5.1/1 a2", "target": "5.1/1 a", "value": 1},
@@ -211,27 +210,24 @@
             {"source": "5.1/1 b1", "target": "5.1/1 b", "value": 1},
             {"source": "5.1/1 c", "target": "ANConf/13 5.1/1", "value": 1},
             {"source": "5.1/1 d", "target": "ANConf/13 5.1/1", "value": 1},
-            
             {"source": "5.1/1 d1", "target": "5.1/1 d", "value": 1},
             {"source": "5.1/1 d2", "target": "5.1/1 d", "value": 1},
             {"source": "5.1/1 d3", "target": "5.1/1 d", "value": 1},
             {"source": "5.1/1 e", "target": "ANConf/13 5.1/1", "value": 1},
             {"source": "5.1/1 f", "target": "ANConf/13 5.1/1", "value": 1},
             {"source": "5.1/1 g", "target": "ANConf/13 5.1/1", "value": 1},
-
-
-            
             {"source": "A41-9", "target": "A41", "value": 1},
             {"source": "A41-9 a", "target": "A41-9", "value": 1},
             {"source": "A41-9 b", "target": "A41-9", "value": 1},
-            {"source": "A41-9 b1", "target": "AA41-9 b", "value": 1},
+            {"source": "A41-9 b1", "target": "A41-9 b", "value": 1},
             {"source": "A41-9 b1 1", "target": "A41-9 b1", "value": 1},
             {"source": "A41-9 b1 2", "target": "A41-9 b1", "value": 1},
             {"source": "A41-9 b1 3", "target": "A41-9 b1", "value": 1},
             {"source": "A41-9 b1 4", "target": "A41-9 b1", "value": 1},
             {"source": "A41-9 b1 5", "target": "A41-9 b1", "value": 1},
             {"source": "A41-9 b1 6", "target": "A41-9 b1", "value": 1},
-            {"source": "A41-9 b2", "target": "AA41-9 b", "value": 1},
+            {"source": "A41-9 b2", "target": "A41-9 b", "value": 1},
             {"source": "A41-9 b2 1", "target": "A41-9 b2", "value": 1}
+            
         ]
 }
