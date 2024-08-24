@@ -1,0 +1,237 @@
+{
+    "nodes" : 
+        [
+            {"id": "HAO Mandates", "description" : "HAO Mandates", "group": 1},
+            {"id": "A41", "description" : "A41",  "group": 1},
+            {"id": "ANconf/13", "description" : "ANConf/13",  "group": 1},
+            {"id": "ANConf/13 5.1/1", "description" : "5.1/1 — Operations above flight level 600",  "group": 1},
+            
+            
+            
+            {
+                "id": "5.1/1 a", 
+                "description": "States with relevant experience",
+                "descriptionX" :"States with relevant experience in higher airspace operations, share, through ICAO where  appropriate, their experience and expertise with other States and provide assistance to  other States on the regulatory aspects of these operations;", 
+                "group": 1
+            },
+
+            
+            {
+                "id": "5.1/1 a1", 
+                "description": "Share experience and expertise",
+                "descriptionX" :"Share experience and expertise", 
+                "group": 1
+            },
+
+            {
+                "id": "5.1/1 a2", 
+                "description": "provide assistance to other States",
+                "descriptionX" :"provide assistance to other States", 
+                "group": 1
+            },
+
+
+            {
+                "id": "5.1/1 b", 
+                "description": "States expected to benefit",
+                "descriptionX" :"States expected to benefit from higher airspace operations, agree to consider risk-based  operational trials in their airspace", 
+                "group": 1
+            },
+
+
+           
+            {
+                "id": "5.1/1 b1", 
+                "description": " risk-based operational trials",
+                "descriptionX" :" risk-based operational trials", 
+                "group": 1
+            },
+
+            {
+                "id": "5.1/1 c", 
+                "description": "ICAO provide guidance and, as necessary, other provisions",
+                "descriptionX" :"ICAO support ongoing higher airspace operations by providing guidance and, as necessary, other provisions on the regulatory aspects of these operations", 
+                "group": 1
+            },
+
+            {
+                "id": "5.1/1 d", 
+                "description": "ICAO work with States and industry",
+                "descriptionX" :"ICAO work with States and industry to share information on current and forecasted needs  for higher airspace operations, to identify issues affecting the global air navigation  system and to proactively address harmonization for these operations", 
+                "group": 1
+            },
+
+            {
+                "id": "5.1/1 d1", 
+                "description": "proactively address harmonization for these operations",
+                "descriptionX" :"proactively address harmonization for these operations", 
+                "group": 1
+            },
+
+            {
+                "id": "5.1/1 d2", 
+                "description": "identify issues affecting the global air navigation system",
+                "descriptionX" :"identify issues affecting the global air navigation system", 
+                "group": 1
+            },
+
+            {
+                "id": "5.1/1 d3", 
+                "description": "share information on current and forecasted needs",
+                "descriptionX" :"share information on current and forecasted needs", 
+                "group": 1
+            },
+
+
+            {
+                "id": "5.1/1 e", 
+                "description": "ICAO consider establishing a multidisciplinary group of experts",
+                "descriptionX" :"ICAO consider establishing a multidisciplinary group of experts to consider needed criteria, operational issues, and operator and provider responsibilities for operations in higher airspace", 
+                "group": 1
+            },
+            
+            {
+                "id": "5.1/1 f", 
+                "description": "ICAO develop a performance-based global framework",
+                "descriptionX" :"ICAO develop a performance-based global framework for higher airspace operations considering current and future work in emerging technologies, for example, in the areas of information management and sharing, strategic planning, separation and environmental Standards, situational awareness and security", 
+                "group": 1
+            },
+
+            {
+                "id": "5.1/1 g", 
+                "description": "ramework includes flights transitioning",
+                "descriptionX" :"ICAO ensure that the framework includes flights transitioning through controlled airspace and to and through airspace above FL600, as necessary", 
+                "group": 1
+            },
+
+          
+            
+            {
+                "id": "A41-9", 
+                "description" :"A41-9: New entrants",
+                "descriptionX" :"", 
+                "group": 1
+            },
+
+            {
+                "id": "A4-9 a", 
+                "description" :"“New Entrants” refers to higher airspace operations (HAO) and...",
+                "descriptionX" :"Recognizing that, for the purposes of this Resolution, the term “New Entrants” refers to higher airspace operations (HAO) and unmanned aircraft system (UAS) traffic management (UTM) operations;",
+                "group": 1
+            },
+
+
+            {
+                "id": "A41-9 b", 
+                "description" :"Directs ICAO",
+                "descriptionX" :"Directs ICAO to review Standards and Recommended Practices (SARPs) relating to, inter alia, the rules of the air, air traffic services, certification, licencing, liability and the environment, for amendment or expansion as necessary, and to develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            },
+
+
+            {
+                "id": "A41-9 b1", 
+                "description" :"Review SARPS",
+                "descriptionX" :"review SARPs relating to, inter alia, the rules of the air, air traffic services, certification, licencing, liability and the environment, for amendment or expansion as necessary, and to develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            },
+
+            {
+                "id": "A41-9 b1 1", 
+                "description" :"rules of the air",
+                "descriptionX" :"review SARPs relating to, inter alia, the , air traffic services, certification, licencing, liability and the environment, for amendment or expansion as necessary, and to develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            },
+  
+       
+            {
+                "id": "A41-9 b1 2", 
+                "description" :"air traffic services",
+                "descriptionX" :"review SARPs relating to, inter alia, the , , certification, licencing, liability and the environment, for amendment or expansion as necessary, and to develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            },     
+
+       
+            {
+                "id": "A41-9 b1 3", 
+                "description" :"certification",
+                "descriptionX" :"review SARPs relating to, inter alia, the , , , licencing, liability and the environment, for amendment or expansion as necessary, and to develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            },     
+
+       
+            {
+                "id": "A41-9 b1 4", 
+                "description" :"licencing",
+                "descriptionX" :"review SARPs relating to, inter alia, the , , , , liability and the environment, for amendment or expansion as necessary, and to develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            }, 
+       
+            {
+                "id": "A41-9 b1 5", 
+                "description" :"liability",
+                "descriptionX" :"  and the environment, for amendment or expansion as necessary, and to develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            }, 
+
+            
+            {
+                "id": "A41-9 b1 6", 
+                "description" :"environment",
+                "descriptionX" :" develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            }, 
+
+            {
+                "id": "A41-9 b2", 
+                "description" :"to develop specific concepts and guidance",
+                "descriptionX" :" to develop specific concepts and guidance to facilitate the operation of New Entrants within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            },
+
+            
+            {
+                "id": "A41-9 b2 1", 
+                "description" :"to develop specific concepts and guidance",
+                "descriptionX" :" within a global, harmonized framework, taking into account regional frameworks and practices",
+                "group": 1
+            }           
+        ],
+    "links" : 
+        [
+            {"source": "A41", "target": "HAO Mandates", "value": 1},
+            {"source": "ANconf/13", "target": "HAO Mandates", "value": 1},
+            {"source": "ANConf/13 5.1/1", "target": "ANconf/13", "value": 1},
+            
+
+            {"source": "5.1/1 a", "target": "ANConf/13 5.1/1", "value": 1},
+            {"source": "5.1/1 a1", "target": "5.1/1 a", "value": 1},
+            {"source": "5.1/1 a2", "target": "5.1/1 a", "value": 1},
+            {"source": "5.1/1 b", "target": "ANConf/13 5.1/1", "value": 1},
+            {"source": "5.1/1 b1", "target": "5.1/1 b", "value": 1},
+            {"source": "5.1/1 c", "target": "ANConf/13 5.1/1", "value": 1},
+            {"source": "5.1/1 d", "target": "ANConf/13 5.1/1", "value": 1},
+            
+            {"source": "5.1/1 d1", "target": "5.1/1 d", "value": 1},
+            {"source": "5.1/1 d2", "target": "5.1/1 d", "value": 1},
+            {"source": "5.1/1 d3", "target": "5.1/1 d", "value": 1},
+            {"source": "5.1/1 e", "target": "ANConf/13 5.1/1", "value": 1},
+            {"source": "5.1/1 f", "target": "ANConf/13 5.1/1", "value": 1},
+            {"source": "5.1/1 g", "target": "ANConf/13 5.1/1", "value": 1},
+
+
+            
+            {"source": "A41-9", "target": "A41", "value": 1},
+            {"source": "A41-9 a", "target": "A41-9", "value": 1},
+            {"source": "A41-9 b", "target": "A41-9", "value": 1},
+            {"source": "A41-9 b1", "target": "AA41-9 b", "value": 1},
+            {"source": "A41-9 b1 1", "target": "A41-9 b1", "value": 1},
+            {"source": "A41-9 b1 2", "target": "A41-9 b1", "value": 1},
+            {"source": "A41-9 b1 3", "target": "A41-9 b1", "value": 1},
+            {"source": "A41-9 b1 4", "target": "A41-9 b1", "value": 1},
+            {"source": "A41-9 b1 5", "target": "A41-9 b1", "value": 1},
+            {"source": "A41-9 b1 6", "target": "A41-9 b1", "value": 1},
+            {"source": "A41-9 b2", "target": "AA41-9 b", "value": 1},
+            {"source": "A41-9 b2 1", "target": "A41-9 b2", "value": 1}
+        ]
+}
