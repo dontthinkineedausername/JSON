@@ -1,0 +1,391 @@
+{
+    "Class" : "HAO",
+    "Descrtiption" : "Higher Airspace Operations",
+    "Elements" :
+
+
+        [
+            
+
+            {
+                "ID":66,
+                "States" : {
+                    "Design" : "US",
+                    "Operation" : "US, NZ, PE, KE",
+                    "Regulation" :"US, NZ, PE, KE"
+                },
+                "Years":{
+                    "Design" : 2011,
+                    "PrototypeScale" : 0,
+                    "PrototypeFull" : 2012,
+                    "Operation" : 2013,
+                    "Regulation" : 2013
+                },
+                "Code":"LN",
+                "Name":"Loon",
+                "Phase":"Operational",
+                "Spec":"39.948",
+                "StartCol":1,
+                "StartRow":4,
+                "ENV" : 10,
+                "COVID" :3, 
+                "Category":0,
+                "FLRow":1,
+                "FLCol":1,
+                "DT":{
+                    "Altitude":{"value": 75000, "unit":"ft", "default":"75,000 feet"},
+                    "Propulsion":"Solar",
+                    "Speed":{
+                            "value":0,
+                            "unit":"",
+                            "default": "Wind speed"
+                            },
+                    "ID":66,
+                    "Name":"Loon ",
+                    "Company":" Loon",
+                    "Location":"Mountain View, California, United States",
+                    "Website":"https://loon.co/",
+                    "Slogan":"Connect people everywhere"
+                }
+            },
+
+
+
+
+            {
+                "ID": 30,
+                "States" : {
+                    "Design" : "GB",
+                    "Operation" : "AU, GB",
+                    "Regulation" :"AU, GB"
+                },
+                "Years":{
+                    "Design" : 2003,
+                    "PrototypeScale" : 0,
+                    "PrototypeFull" : 2008,
+                    "Operation" : 2027,
+                    "Regulation" : 2025
+                },
+                "Code":"ZP",
+                "Name":"Zephyr 7",
+                "Phase":"Prototype",
+                "Spec":"63.546",
+                "StartCol":11,
+                "StartRow":4,
+                "ENV" : 10, 
+                "COVID" :3,
+                "Category":1,
+                "FLRow":1,
+                "FLCol":2,
+                "DT":{
+                    "Payload":{"default":"2.5 kg", "value": 2.5, "unit":"kg"},
+                    "Speed":{
+                        "value":56,
+                        "unit":"kmh",
+                        "default": "56 km/h"
+                        },
+                    "Autonomy":"14 days",
+                    "ID":30,
+                    "Name":"Zephyr 7 ",
+                    "Company":" Airbus",
+                    "Location":"2303 DA Leiden the Netherlands",
+                    "Website":"https://www.airbus.com/defence/uav/zephyr.html"
+                }
+            },
+
+
+
+            {
+                "ID": 13,
+                "States" : {
+                    "Design" : "FR",
+                    "Operation" : "FR",
+                    "Regulation" :"FR"
+                },
+                "Years":{
+                    "Design" : 2016,
+                    "PrototypeScale" : 0,
+                    "PrototypeFull" : 2023,
+                    "Operation" : 2025,
+                    "Regulation" : 2024
+                },
+                "Code":"SB",
+                "Name":"Stratobus",
+                "Phase":"Prototype",
+                "Spec":"65.38",
+                "StartCol":12,
+                "StartRow":4,
+                "ENV" : 10, 
+                "COVID" :3,
+                "Category":1,
+                "FLRow":1,
+                "FLCol":3,
+                "DT":{
+                    "Payload":{"default":"450 kg", "value":450, "unit":"kg"},
+                    "Altitude":{"value": 65000, "unit":"ft", "default":"65 000 feet"},
+                    "Propulsion":"Batteries/solar",
+                    "Autonomy":"Weeks",
+                    "Speed":{
+                        "value":115,
+                        "unit":"kmh",
+                        "default": "115 km/h"
+                        },
+                    "Range":{
+                        "value":0,
+                        "unit":"km",
+                        "default":"Worldwide coverage"
+                        },
+                    "ID":13,
+                    "Name":"Stratobus ",
+                    "Company":" Thales Alenia Space",
+                    "Website":"www.thalesaleniaspace.com","Location":"Cannes, France"
+                }
+
+            },
+
+        
+            {
+                "ID": 89,
+                "States" : {
+                    "Design" : "US",
+                    "Operation" : "US",
+                    "Regulation" :"US"
+                },
+                "Years":{
+                    "Design" : 2014,
+                    "PrototypeScale" : 2022,
+                    "PrototypeFull" : 2026,
+                    "Operation" : 2030,
+                    "Regulation" : 2029
+                },
+                "Code":"BM",
+                "Name":"Boom Overture",
+                "Phase":"Prototype",
+                "Spec":"112.411",
+                "StartCol":12,
+                "StartRow":5,
+                "ENV" : 0, 
+                "COVID" :0,
+                "Category":2,
+                "FLRow":1,
+                "FLCol":6,
+            
+                "DT":{
+                    "Capacity":"55-75 people",
+                    "Altitude":{"value": 18288, "unit":"m", "default":"18,288 m"},
+                    "Speed":{
+                        "value":2335,
+                        "unit":"kmh",
+                        "default": "2,335 km /h"
+                        },
+                    "Range":{
+                        "value":8334,
+                        "unit":"km",
+                        "default":"8,334 km"
+                        },
+                    "ID":89,
+                    "Name":"Overture",
+                    "Company":" Boom Supersonic",
+                    "Website":"https://boomsupersonic.com",
+                    "Location":"Denver, Colorado, USA"
+                }
+            },
+        
+
+            {"ID": 400,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"?","Name":"Not Yet Invented","Spec":"180.94788","StartCol":17,"StartRow":5,"ENV" : -1, "COVID" :-1,"Category":1,"FLRow":8,"FLCol":18},
+
+            {"ID": 300,"States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            
+            "Code":"AI+","Name":"Artifical Intelligence","Spec":"164.93032","StartCol":8,"StartRow":8,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":8},
+            
+            {"ID": 307,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+
+            "Code":"AP+","Name":"Additive Manufaturing","Spec":"167.259","StartCol":9,"StartRow":8,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":9},
+        
+            {"ID": 302,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"BC+","Name":"Block Chain","Spec":"168.93421","StartCol":10,"StartRow":8,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":10},
+            
+            {"ID": 308,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"OS+","Name":"Open Source Development","Spec":"173.054","StartCol":11,"StartRow":8,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":11},
+        
+            {"ID": 303,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"BT+","Name":"Battery Technology","Spec":"174.9668","StartCol":12,"StartRow":8,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":12},
+            
+            {"ID": 309,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"QC+","Name":"Quantum Computing","Spec":"178.49","StartCol":13,"StartRow":8,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":13},
+            
+            {"ID": 310,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"PA+","Name":"Robotic Process Automation","Spec":"180.94788","StartCol":14,"StartRow":8,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":14},
+            
+            {"ID": 301,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"RP+","Name":"Rapid Prototyping","Spec":"180.94788","StartCol":8,"StartRow":9,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":15},
+            
+            {"ID": 304,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"MT+","Name":"New Materials","Spec":"180.94788","StartCol":9,"StartRow":9,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":16},
+            
+            {"ID": 305,"States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"BD+","Name":"Big Data","Spec":"180.94788","StartCol":10,"StartRow":9,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":17},
+            
+            {"ID": 306,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"AV+","Name":"AR/VR","Spec":"180.94788","StartCol":11,"StartRow":9,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":18},
+            
+            {"ID": 311,
+            "States" : {
+                "Design" : "",
+                "Operation" : "",
+                "Regulation" :""
+            },
+            "Years":{
+                "Design" : 0,
+                "PrototypeScale" : 0,
+                "PrototypeFull" : 0,
+                "Operation" : 0,
+                "Regulation" : 0
+            },
+            "Code":"5G+","Name":"5G","Spec":"180.94788","StartCol":12,"StartRow":9,"ENV" : -1, "COVID" :-1,"Category":-1,"FLRow":8,"FLCol":18}
+
+        ]
+    }
